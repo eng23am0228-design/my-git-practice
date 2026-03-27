@@ -1,3 +1,7 @@
 Hello World 
 Second line 
+<<<<<<< HEAD
 Change from branch 
+=======
+Change from main 
+>>>>>>> main
